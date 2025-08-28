@@ -1,2 +1,2 @@
 # 420121_a02_git
-67
+The quick brown fox jumps over the lazy dog.
